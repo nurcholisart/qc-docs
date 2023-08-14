@@ -1,6 +1,6 @@
 # How can I integrate Slack with Qiscus Omnichannel?
 
-## Use Case
+## Use Cases
                                                  
 In the following article we will try to answer the question on _how can I integrate Slack with Qiscus Omnichannel?_
                                                  
