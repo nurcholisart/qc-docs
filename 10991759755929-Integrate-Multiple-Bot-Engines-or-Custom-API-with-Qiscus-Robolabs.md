@@ -1,4 +1,4 @@
-# Integrate Multiple Bot Engines or Custom API with Qiscus Robolabs
+# Integrate Multiple Bots Engines or Custom API with Qiscus Robolabs
 
 By default, Robolabs use the Google Dialogflow engine. The solutions in this article are suitable for you who are using Robolabs but still need a custom flow with your own bot/API. So we need to integrate them.
 
